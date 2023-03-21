@@ -1,3 +1,5 @@
+package contest2022;
+
 import java.util.*;
 
 public class Task2 {

@@ -1,3 +1,5 @@
+package contest2022;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
